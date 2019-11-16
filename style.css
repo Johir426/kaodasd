@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower&display=swap');
+*{ margin:0 auto ;padding:0px; 
+}
+.head{ width:1000px; padding:10px;
+}
+.logo img {width:80px; 
+          height: 22px; 
+}
+.logo{ float:left;
+       width:200px;
+}
+.flex{display:
+      flex;
+}
+.menu ul {width:1000px; 
+}
+
+.menu ul li { float:right; 
+    list-style-type:none;
+
+     display: inline;
+}
+.menu ul li a {  text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    font-family: fantasy;
+         color:#725700}
+.menu ul li a:hover{background-color: aliceblue ;color:black;}
+
+.container{background-color:#FCDA00
+}
+
+.bodyy{ background-color:#FCDA00;padding-top: 50px; }
+.menuu{ width:1000px; height:500px}
+.write{ float:left; width:500px; padding-top: 70px;}
+.write  p {font-family: 'Pacifico', cursive; }
+.write em {font-family: 'Indie Flower', cursive;}
+.flexx{ display: flex}
+.photo img  {float:right;width:400px; height:450px; border-radius: 20px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
